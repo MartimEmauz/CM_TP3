@@ -1,0 +1,7 @@
+#Thu Oct 31 12:20:09 CET 2024
+base.0=C\:\\Users\\marti\\AndroidStudioProjects\\basic-android-kotlin-compose-training-mars-photos\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\marti\\AndroidStudioProjects\\basic-android-kotlin-compose-training-mars-photos\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\5\\classes.dex
+path.0=0/classes.dex
+path.1=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photos API</string>
+    <string name="firebase_database_url" translatable="false">https://marsphotos-acec5-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">837507254273</string>
+    <string name="google_api_key" translatable="false">AIzaSyBFn-GjoCCayk1aDUUOz8n6XDtgffJqFes</string>
+    <string name="google_app_id" translatable="false">1:837507254273:android:bf09107d893996e76c5800</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBFn-GjoCCayk1aDUUOz8n6XDtgffJqFes</string>
+    <string name="google_storage_bucket" translatable="false">marsphotos-acec5.appspot.com</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="mars_photo">Mars photo</string>
+    <string name="placeholder_success">Placeholder text</string>
+    <string name="project_id" translatable="false">marsphotos-acec5</string>
+    <string name="retry">Retry</string>
+    <style name="Theme.MarsPhotos" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

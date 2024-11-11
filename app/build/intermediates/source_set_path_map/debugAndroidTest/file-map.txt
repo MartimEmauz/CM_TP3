@@ -1,0 +1,4 @@
+com.example.marsphotos.test.app-androidTest-0 C:\Users\marti\AndroidStudioProjects\basic-android-kotlin-compose-training-mars-photos\app\build\generated\res\resValues\androidTest\debug
+com.example.marsphotos.test.app-mergeDebugAndroidTestResources-1 C:\Users\marti\AndroidStudioProjects\basic-android-kotlin-compose-training-mars-photos\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.marsphotos.test.app-mergeDebugAndroidTestResources-2 C:\Users\marti\AndroidStudioProjects\basic-android-kotlin-compose-training-mars-photos\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.marsphotos.test.app-merged_res-3 C:\Users\marti\AndroidStudioProjects\basic-android-kotlin-compose-training-mars-photos\app\build\intermediates\merged_res\debugAndroidTest
